@@ -1,7 +1,8 @@
 ### Firebase + Android
 
-|Topic | Meetup | By | Done | Link |
+|Topic | Meetup Date | By | Done | Link |
 | --- | --- | --- | --- | --- |
+|Testing | 14 February 2018 | JT | | [Link](https://www.meetup.com/GDGKualaLumpur/events/247086153/)
 |Instant App | | | |
 |Android Studio 3.0 | | | |
 |Android Architecture Components | | | |
